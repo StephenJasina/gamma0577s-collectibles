@@ -1,0 +1,9 @@
+- Name: Gamma0577's Collectibles
+  Version: 1.0.0
+  DLL: bin/Gamma0577sCollectibles.dll
+  Dependencies:
+    - Name: EverestCore
+      Version: 1.6623.0
+  OptionalDependencies:
+    - Name: CollabUtils2
+      Version: 1.13.0
